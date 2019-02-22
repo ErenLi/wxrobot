@@ -1,0 +1,2 @@
+# wxrobot
+基于itchat4j的微信机器人springboot项目
